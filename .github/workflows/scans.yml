@@ -33,6 +33,9 @@ on:
   schedule:
     - cron: "0 0 * * 0" # see https://crontab.guru
 
+permissions:
+  contents: write
+  
 # allow only one concurrent scan action
 concurrency:
   cancel-in-progress: true
