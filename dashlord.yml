@@ -1,38 +1,97 @@
-title: DashLord example
-description: Bonnes pratiques techniques
-entity: Votre entité
-footer: Powered by SocialGouv
-marianne: false
+title: DashLord de la Ruche Numérique
+description: Bonnes pratiques techniques de la Ruche Numérique de l'ADEME
+entity: République Française
+footer: La Ruche Numérique de l'ADEME
+marianne: true
 seo: false
+operator:
+  logo: https://raw.githubusercontent.com/incubateur-ademe/.github/main/ademe-logo-2022-1.svg
+  name: ADEME
 tools:
-  "404": true
-  screenshot: true
-  nmap: true
-  zap: true
-  wappalyzer: true
-  http: true
-  testssl: true
+  screenshot: false
   lighthouse: true
-  thirdparties: true
-  nuclei: true
-  updownio: false
-  dependabot: true
-  codescan: true
-  stats: false
+  wappalyzer: true
   declaration-a11y: true
-  ecoindex: true
+  declaration-rgpd: true
+  sonarcloud: true
+  trivy: true
   dsfr: true
-  betagouv: true
+  http: false
+  testssl: false
+  "404": false
+  nmap: false
+  zap: false
+  nuclei: false
+  dependabot: false
+  codescan: false
+  ecoindex: false
+  stats: false
+  thirdparties: false
+  updownio: false
 columns: # pour masquer des colonnes
   zap: false
-updownioStatusPage: https://updown.io/status_pages
-updownioRecipients:
-  - email:123456
-  - email:789987
 urls:
-  - url: https://www.fabrique.social.gouv.fr
-    repositories:
-      - socialgouv/www
-    docker:
-      - ghcr.io/socialgouv/fabrique/frontend
-  - url: https://beta.gouv.fr
+  - url: https://pfe-det.ademe.fr
+    category: PHP
+  - url: https://renovfriches.ademe.fr
+    category: PHP
+  - url: https://selecdepol.fr
+    category: Drupal
+  - url: https://ecosystore.ademe.fr
+    category: PHP
+  - url: https://www.eve-transport-logistique.fr
+    category: Wordpress
+  - url: https://cee-remove.ademe.fr
+    category: Wordpress
+  - url: https://experimentationsurbaines.ademe.fr
+    category: Wordpress
+  - url: https://avelo.ademe.fr
+    category: Wordpress
+  - url: https://employeursprocovoiturage.ademe.fr
+    category: Wordpress
+  - url: https://calanques-de-marseille.ademe.fr
+    category: Wordpress
+  - url: https://lesgenerateurs.ademe.fr
+    category: Wordpress
+  - url: https://www.fresquedusol.com
+    title: Fresque du sol
+    category: Wordpress
+  - url: https://economie-circulaire.ademe.fr
+    category: Drupal
+  - url: https://www.ecolabeltoolbox.com
+    category: PHP
+  - url: https://audit-energie.ademe.fr
+    category: PHP
+  - url: https://inventairepcb.ademe.fr
+    category: PHP
+  - url: https://affichage-environnemental.ademe.fr
+    category: Drupal
+  - url: https://veille-internationale.ademe.fr
+    category: PHP
+  - url: https://carlabelling.ademe.fr
+    category: PHP
+  - url: https://evenementresponsable.ademe.fr
+    category: PHP
+  - url: https://communication-responsable.ademe.fr
+    category: Drupal
+  - url: https://infos.ademe.fr
+    category: Wordpress
+  - url: https://www.territoires-climat.ademe.fr
+    category: PHP
+  - url: http://www.enrchoix.idf.ademe.fr
+    category: PHP
+  - url: https://carnetadapt.org
+    category: PHP
+  - url: https://ecrains.ademe.fr
+    category: Drupal
+  - url: http://recherche.ademe.fr
+    category: PHP
+  - url: https://www.onpe.org
+    category: Drupal
+  - url: https://filieres-rep.ademe.fr
+    category: Drupal
+  - url: https://www.bilans-ges.ademe.fr
+    category: PHP
+  - url: https://wattris.ademe.fr
+    category: Autre
+  
