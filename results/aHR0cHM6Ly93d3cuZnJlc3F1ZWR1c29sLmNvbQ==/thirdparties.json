@@ -1,0 +1,58 @@
+{
+  "trackers": [],
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "rM66b.liiRmfjNMCgQ6Ue_Zc7DZzoHzL0l_J60G5XvE-1790337740.980562-1.0.1.1-mVpu2FymZwLa5wolAPVDxlbRWWnOBxALaJEKPnMf9_VLTa1lKwLFsTTDclMeG91BQSviuzH9YvtDY46S65qmOjJE3y_N5SsAFTvoQMClibZy810yi6Rx57aR_f208vV4",
+      "domain": ".fresquedusol.com",
+      "path": "/",
+      "expires": 1790339540.994253,
+      "size": 205,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    }
+  ],
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "a409e11ce8ca3eea-IAD",
+    "content-encoding": "zstd",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Fri, 25 Sep 2026 12:02:20 GMT",
+    "last-modified": "Fri, 25 Sep 2026 09:58:01 GMT",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "priority": "u=0,i",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=81Zn71zHIr75q2jNqMndbPbMFjJpBGM7CaUPIrS5B4NUq%2BZu4lmwskwE%2F%2ByxNk571sY5UFsr7m0Va0SwYiETm%2FrmrkIGSA8j4POS3J0TPbXd0oXem5N5BHtG9DGxxP%2BySbM7\"}]}",
+    "server": "cloudflare",
+    "server-timing": "cfExtPri",
+    "vary": "User-Agent,Accept-Encoding,Referer",
+    "x-powered-by": "PHP/8.2.33\nPleskLin"
+  },
+  "endpoints": [
+    {
+      "hostname": "www.fresquedusol.com",
+      "ip": "172.67.167.51",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
+}
