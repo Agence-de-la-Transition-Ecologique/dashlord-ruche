@@ -1,0 +1,328 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/load.js?domain=bilans-ges.ademe.fr&uuid=2df1000bf385655312abede8e30421664e7d594e"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdntag.tarteaucitron.io/load.js?domain=bilans-ges.ademe.fr&uuid=2df1000bf385655312abede8e30421664e7d594e"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.tarteaucitron.io/css/tarteaucitron.min.css?v=1.35.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.tarteaucitron.io/lang/tarteaucitron.fr.min.js?v=1.35.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.tarteaucitron.io/tarteaucitron.services.min.js?v=1.35.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://logs.tarteaucitron.io/collect"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "value": "3KpmsuUWJQZ8kG_hwZv1AbkOJq5ReiapXLwO8zkoAVY-1790338616-1.2.1.1-IacvmZdnmAjWx6x8D4iyXh5li3VvrLMld06HJMKw34Ef7nqM86nm43IgpD4knjaNGurdbxt4nChy_vBxS9wZsf8toRDGzRtFKVlc6y9mIm45teWtnRGc1rIc_5_A6VFZlp7TxmIktvdjrJDvwYZeTu6aHeMn78nv2GhaMTXzx.6z7fsNlDqxFR7MBbpKsbhNk4z3jZOFMkuov7_iryhiRSdNWUX3fmoYtIHxrT7Wx4vQOrBw_lbtyBUCb.Mm3c4ta7REI31Jvk9ftNVQsibHwX8TahiO78fejgnXgLA18zfeaMbA9xk.1De4NlTnw_3s.tV41Sq6ne2YOEfgAqZoLcI1Wmh_byXyMxp8T3ZBf7EiN8OUMmqTDlsaHrqdP99yIS0i.qjbS8Q.oiFEozb.lxQswRLig2_j6mwRDvI2YSb0zJnnP7fbAueGsY8GN49fvTP_nrzLyTJQN4RXyPLdG53f_qtrAPwY6rT_Syez5hdL9jaD0ttmsAp0TbltqFlj58k7LbPClAieX3EDIaLt9hn5zciMPZ_jsWdfzs88Lnx9MLYNO.SWbzaC6DoqlM9bx9xEEuP5LVwjA0Il5paDAC_vfPZFeOxVXM5lOQXBB7UgVDGa5ctN24VHmAJetBflKxLR0kQunnpWONpvhVuw3_jXktSUxRW8pSlDAXyCbZovZamKq.rCWLlsSp0z6kn.uwJIbMe48A0_CmYb.XIUF8sX5LbN.rMT79knfBV9eP7zqzF1Nv85EadWY.MdtuK7",
+      "domain": ".ademe.fr",
+      "path": "/",
+      "expires": 1821874616.195935,
+      "size": 843,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "partitionKey": "https://ademe.fr",
+      "sameParty": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "6UJ8id5YqbCOhK9bGYokXl2aBIwP.G3QLXLIrSnERxY-1790338616.185855-1.0.1.1-Xj5mde7C4rQIqfV7hHhD4bM0e3AjBD5LmLmpIlK4TGdRphslDKtj5YRll18k_zqFlHEXLeOX6L5gDRQETnSdt1nEp2ZU6PdRKFSnXffoJ6e.7ukG3Wcdt7MOGjgttHf3",
+      "domain": ".ademe.fr",
+      "path": "/",
+      "expires": 1790340416.196004,
+      "size": 205,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    }
+  ],
+  "headers": {
+    "access-control-allow-origin": "*",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "a409f678fe9b5120-MSP",
+    "content-encoding": "gzip",
+    "content-security-policy": "frame-ancestors 'self' prod-bilansges.prod.ademe-scw.fr;",
+    "content-type": "text/html",
+    "date": "Fri, 25 Sep 2026 12:16:55 GMT",
+    "expires": "0",
+    "last-modified": "Tue, 01 Sep 2026 08:00:28 GMT",
+    "permissions-policy": "geolocation=(self), microphone=(), camera=(), fullscreen=*",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
+    "vary": "Origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "sameorigin",
+    "x-xss-protection": "1; mode=block"
+  },
+  "endpoints": [
+    {
+      "hostname": "www.bilans-ges.ademe.fr",
+      "ip": "104.18.1.202",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "tarteaucitron.io",
+      "ip": "51.68.111.231",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdntag.tarteaucitron.io",
+      "ip": "46.105.202.123",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdn.tarteaucitron.io",
+      "ip": "46.105.202.123",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "logs.tarteaucitron.io",
+      "ip": "51.68.111.231",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    }
+  ]
+}
