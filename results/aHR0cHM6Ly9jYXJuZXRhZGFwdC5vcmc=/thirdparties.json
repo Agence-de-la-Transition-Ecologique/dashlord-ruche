@@ -10,7 +10,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/g00ns/0x4AAAAAAADnOjc0PNeA8qVm/light/fbE/new/normal?lang=auto",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/ofi0l/0x4AAAAAAADnOjc0PNeA8qVm/light/fbE/new/normal?lang=auto",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -18,7 +18,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/1533804704:1790334032:n1cwtu_mO0bVfNbp_jmsvtPkwfFiWsaViSouqgtv2I0/a409ef100e375aba/gW4035TruAGQZC2kjb8QuFQF1wSIAiXMuYOqF4i.Ytw-1790338311-1.2.1.1-GjUDHhorh53kmwa3RH4VcZkeESawVUdGVd.kD8.4rvdHr8AxNJ9yftEhO.cwltGy",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/613368092:1790474428:41vZwDfM3qsc5xE9OolJZbrnwzm2XnKme59-z0G5CNQ/a4171e662a0210b6/.3Wo0RLkPf7.li7pgd_U39pOTRgN71hkrWPFBMwKsyc-1790476565-1.2.1.1-08HF25BOOZGQUyhFvDU2pPX36uOyFQ_0VayO3YQO364FEIA6G_3fhX2XHwIAPPgU",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -26,7 +26,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/a409ef100e375aba/1790338312084/3797c2bd01928729ea7fb9d7598b36ed5450b34903ffbe0c12ac67d7e761ec93/yAMoXLwU8rd9bjPnhrS4QlzuEDHzjO4CsRm1qtOPgf0-1790338312-1.3.1.1-8AUywEKlvTOKlt.oqDFDGWmbM71gAx4Z1RhkbFkLR20qV.ET5BALGqkSnrmaPEEho4ZkAdVFoHvlt9pNl3VtIF_vOmW6oi3YoC5aHsUA9BRjQx1p18aKZNadD0URF1VX2KHG24LwlLBaJobhHuC31P6AvcDkEuYB9NnEpPGpaHVelHi4QajLhl0alvHOzpOFZx5E8O.eL.og9r2OgKpzrCZVFNVhMKkNckASK_0UfzdDElVAADPTv246bDXDKBPR081TVRCikvFPE1ALNjXzl8SRLCiMKXzRZQRNvKD77eOEtFtdEpQtTm28IDfhv9vxla2kKRVtrqxqY.gNZ89ZcoFt0wW8EH8rp8LhhomBGAl8zMtM2Zc8cwXPLs1tZB2EgMuCrhkaQ7VMgGBCttfv8fdu1vY4Ppn4Ae5miqtxF9tCIZS7LakjD.LakF0.1hwPjgQ0PPI49TjkYj5TkTpJ42JgJICGumGEr5jV6bfMF6QPHk4x3_2Cwat71i__SHXEsdFZ6VIAFByJDrbvf9n7lGojZReLCbRsRfcuNnI3ByKrhWda3Zlqo2c_yfJ7MMuPaoNXorfmJ5_AbWYjnw9ryYEvq7LfU_IIkourR3EGzHQh1iPtphSxzkt0iyLPMg0NymPiorhOssPWR65CkqQL6JQApqN3Ug2B.Q6gc2WwkXUVl9G3CQs2qZcWHMnwzCYXbeg37x9wxaame2FexDGhkP2NRcpjk2ZsCoP1GLUzPASeMW3Ad1t.NI1cDb4N3CfJNwgRWP2vvIbUu6o6m5NG1thKEztt0xO6pgoDjxuU5G80gYE3eyyJn2DfEfmd5JMS",
+      "url": "https://brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/i/a4171e662a0210b6/.3Wo0RLkPf7.li7pgd_U39pOTRgN71hkrWPFBMwKsyc-1790476565-1.2.1.1-08HF25BOOZGQUyhFvDU2pPX36uOyFQ_0VayO3YQO364FEIA6G_3fhX2XHwIAPPgU",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -34,7 +34,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/i/a409ef100e375aba/gW4035TruAGQZC2kjb8QuFQF1wSIAiXMuYOqF4i.Ytw-1790338311-1.2.1.1-GjUDHhorh53kmwa3RH4VcZkeESawVUdGVd.kD8.4rvdHr8AxNJ9yftEhO.cwltGy",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/a4171e662a0210b6/1790476565971/7328a92072bbc4f1285aae6dd2a37d23f9b60154dc0ad9c897f88534552c1dd0/n6DxNS.im_gVKX6KU3_ufCTtDRe5TESNjKXh.0UpOJM-1790476565-1.3.1.1-bAicj1_2tIM8q9ypf8AQdqflopJL1Qj_9Qiu_4a_pLQiN.xL1bamrOFA_SM6Ou67FZomy8Bl9wJVk4E3M8LgkUJ.SoVO4EN0OORxwr2Sb6DoFRkeX3vAzxuGwCYebAUPK83n1ytVnnpbwPN8BeAXcBRWc5ObmR.6sS2W1i4y3knhqBFtsfoqfwoa4ZDGQKF_0XTUn4LmCN8wE7EcqAHSUjQPPlMYsyYrWAoEo8DKIaMSbkvTf6FskYDjn0xzEgsWwDDPRNMURMkpQ.cB.QaZ6LgSUjxNRS0E7jOAA3CuijbqWojfH__A__v97CT9KzH1KJ4jUNJXbBqQ2lEjT7DnGQLe1UvOH5ZWpmN_tvZc.ioPcjZcMeG_JZHdi.aazuTQtne_FPuKM7XVxwszBe1NIn7uPXW1F0zSydNPsGt0uuptQCwGt1GfYQOxafkPeIX.au6SdYtNXwpYeCmG2HF_4mRGBU2fa2wx7xJ38llV8zYry_VbxBaj3eaKYr0QLTvMtOvKdJAYa_jQJ6idd5r.CkYt1iqCGP6NFFWZjPynxAa7IL1FGAqggoG0cMMvo0.K9qffpnD3Ri_UVGP8EFaFH7sSveI7RmkGm_pAy8AMlB4yAcXDtCXd87KrmXCixlYMdzEdMKWil3tYCGRX0Gh2DttKg1CXaaUHAYIF8HlS8.I99D6AT5gcV_TjsxkHBuiFAQF2xNU7oZO8XHqq9uGhYr247AIq6Mn08Woixf1yVIbz_FfOnCG3lc2o4bzrsFV4qmnDU7n9aKu3L4352gBPruqKkWP8sjrQzTCav30Y81TT3u1m1LsHMaDUjlV9xBp8",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -42,7 +42,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a409ef100e375aba/1790338312085/VkYC_JEIMM9JZYoIYwnrg9krvJFqQJ7E4RlK_vzXAhg-1790338312-1.3.1.1-8RQxlhOA3TN6PI9qRv_g.YeX9p3Sm7jX4wqctJ3QzilwmmDOpDGpu_Sa1Nk9x0tVHWb1sUSxSTxyAI5VLZeCn3V4FXW2.ZXs3sT7blZIlUVbbLrOgyL1YkNo2ognvuhimRF1RsBTYeL2Ddb16ShCK4Or_OMQGGx5FxpRNExrqX6O3KDQbMZIlJ57PhZ9VWPuZDALOVgCdUkjMoUFt7GQQNY_2ceG6qoM4LFWgusu.ZUsmb0ZDUdiCV8SnMRrGWEFQZJ_bJC1dtfuUgtC6_BvmFXEc9r0ACGqmKLv7Rrk1dr1OCnUXdbzH.F5kEROKs2X8lTjfy.1XLUtKEeaVB_c2mt8gdUTOZjr3MIJDykzG4cMsi3yRGkrVtdgW76HhkjypmlFifIHFAj18_zgJPg48ijyTb..oK5idp0L4rg7lUGA36Qyn.AuUDql6HXzhoVga._cxAJPhk47rQFwu2ZOks8uSgAmYb9tXYvjeoQO28H.2durhnyvRYUJbXRM_EOSC7Xqqtk9DcD2m6Ogsd9JixPx9oIQLrRlkN8hIYRuroPv0CqnSqm_1HJ2NcsjYmuVFa3z.XOHwl_xKmpBED0eBuTyJJefvZqCRrqB9ZVTrNvMjBq6nvDNjTEH0aMuzsJ4_1EyIbZ68zZmCPDVryE2_u72jtIW_Q.5XlFa_g3jtJ.aXEVN0U57zftKgKpyPV9nXKkpklnCVz25jwCWT25YcnbaqJ4ronqN.ZyoWnNPyyU",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a4171e662a0210b6/1790476565973/yg.l_Jmx8AVmwU_dbjxKLBt_O9kXrzKiOcdc7GCtKK8-1790476565-1.3.1.1-xs2NqQrOvuCNBAwQD1fLOj9l.LI2cFfPLwu2xNH5xozNrc3snyiHTG0WtLqkntVWWktg7LoumJSOXM_u5YTrnw5ZBUOKVvhTmO0Tk7C5tm9wIny6qbrFhX8g3pUW5_fog5lexJ7DpGOPtlIR5LlmcR_PcDjB4d8_1HhL2dZaHBwi8JEOC_ZdWz6ACozxA8ci6e3EHPMf88lp7xiBoPMDglTvo9SDHDgS8dy3wORm9r7CWvSLAzvlgPkfi0X3a2U4nFk2zUAui7.v4IOdXZABQ8XUhrK_H7PUm572lWNbhBqRnxVXDIsjGYy7YO1AcC_TlASzCdUXqHoRx_2RweS9sMEM9ZZkDeKjaP2OmBshwXiTEQiE1CBgSkFV5FPR39mFSj83wwfajA9GESmVUQeDtLx5HEEu03mkYfOqz6agCW9woH4mQMxc8XOss9xux15LRBZpx7W.RA7IDSQSzRUqu8uBUmcU3b1.fmQGSOqudy4ZH.3cz1pKyLue2ROisqQ9v6xUvHiSjkBvJO4GMRVOwP9QpyjgcXkn183oEjuAHZcTOGnHjp9gCAiU6AZkBgqgu8XbISrqUUC06M1nhosorrrCBbQXarAhLR5Xkm21fcKyE1C.hyaugcvSRaIn_gZ0d97RLL4YMv.WzurGtTpmPPYj5UM6nNmwyAuWxAJnKKvOXTvEeGriW2VZvKv_yOC_W18F5aRsvMemPgB2dpXDh8Q.h4HbWPBJzcOThONccnY",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -50,7 +50,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/1533804704:1790334032:n1cwtu_mO0bVfNbp_jmsvtPkwfFiWsaViSouqgtv2I0/a409ef100e375aba/gW4035TruAGQZC2kjb8QuFQF1wSIAiXMuYOqF4i.Ytw-1790338311-1.2.1.1-GjUDHhorh53kmwa3RH4VcZkeESawVUdGVd.kD8.4rvdHr8AxNJ9yftEhO.cwltGy",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/613368092:1790474428:41vZwDfM3qsc5xE9OolJZbrnwzm2XnKme59-z0G5CNQ/a4171e662a0210b6/.3Wo0RLkPf7.li7pgd_U39pOTRgN71hkrWPFBMwKsyc-1790476565-1.2.1.1-08HF25BOOZGQUyhFvDU2pPX36uOyFQ_0VayO3YQO364FEIA6G_3fhX2XHwIAPPgU",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -66,7 +66,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/zb5x1/0x4AAAAAAADnOjc0PNeA8qVm/light/fbE/new/normal?lang=auto",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/vgd1t/0x4AAAAAAADnOjc0PNeA8qVm/light/fbE/new/normal?lang=auto",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -74,23 +74,7 @@
     },
     {
       "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/1533804704:1790334032:n1cwtu_mO0bVfNbp_jmsvtPkwfFiWsaViSouqgtv2I0/a409ef2a89315aba/lUPJTMSuq79YwQU.NmRF6gWmJhy60sUm9BBPoo4huf0-1790338315-1.2.1.1-dx3Qjm_uf9dyl4l15nQw9G2zsK1ySFl_gzii4yQDfnycadk_ywlN7AI2b0XRQ.ke",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudflare",
-      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/pat/a409ef2a89315aba/1790338316172/9d4f4f273d73af807e305634ba3ee1a582f96023216e4b7065cf31db3963c7b4/vtZkEdDdlGf0SAjJ00Zyq0BUPmXh6ju4uTFYDriMPrM-1790338316-1.3.1.1-272fEwrvl4Qp7DJQWv3585elt6mSH0M.6I4yEMXspEje_Sllh71mokhZfzK7wy9PPCuMzoFCyzApSU5Wxdf_bQrqIxjUIgAOZwhuKmME5hK0YjGDDhghpFjYVCRhzSizKkyx9ym19RGT.ahrWuA5RxzpEDDAi8e30TvUOADGtX0OYfqXHHCxhdslv_RN2D.63ib5.Xjf.NDMbnPPLsNB0Z3ax5V.bf3aAxg02e65M69OanCmjudSXCe7s.UFTxLcbgZ.Xm2nX.RKKltgrnlZoD8U0JeOWXKBsCXzccuAaeFEGt0XMsGrRkTVXbvHB6WYLTuS0AcTmsG77HMpWBBoMCN2RGiF3YQ_rMw4SlmEsA.qb5FtgCBYwUP4C1hGfu_JPvI4cOf52Zf9UMWmm8s7YFykT10COLTTKC8kqHFNPVXbBypvpWuioJyu.c4cCZmylRSBrbIzv2_6nQPV2poreMz43DRvp3JZM9__MdoM77YqmUcy_x9bgkliyheUnRV8Z8FzWAnozLsAdM4bw0BJTsKkPqGzdcQrglfDbe000m64Ny2XWKi05Qn0yt3XJyYh_SBdV4WfP0JhoMMSna598usPNqakV1y3ELvHop3.u2J8GbTWp4ySZO6AxC0ViBlPi8lFDTnDqr2b5F45QkE1FE6V0ur3O7ZDFk6pE.UE5Po.j8fRzrOn2js1HRJmrV3kqy7vg1iqskp4g0y3ZYASYmIsWvfBmrRfYkeS5jgzASQFkGEKeQF_Mn4.LBqwvX9DuFbGDFsvKPqMunDQGIImmQN.Qjcg9Ihsymwg52cHt2SaXBv8UozV6Rzw8PFWquBD",
-      "details": {
-        "id": "cloudflare",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudflare",
-      "url": "https://brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/i/a409ef2a89315aba/lUPJTMSuq79YwQU.NmRF6gWmJhy60sUm9BBPoo4huf0-1790338315-1.2.1.1-dx3Qjm_uf9dyl4l15nQw9G2zsK1ySFl_gzii4yQDfnycadk_ywlN7AI2b0XRQ.ke",
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/613368092:1790474428:41vZwDfM3qsc5xE9OolJZbrnwzm2XnKme59-z0G5CNQ/a4171e81bafe10b6/HtbeC69u2PKPH8zxGoUQqbiEO6xh8iYgRrx.LiNXw0Y-1790476569-1.2.1.1-BSCbxBHdhRBNpqVzbmQK0u4Xy90AcXdBe6QUHNbAOj_ipQFl6xKXq0WHeKPqrDwM",
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
@@ -100,10 +84,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "J8dMmPowY6l_IQv_hvvkxU_v8ssNMNhPmOswKRrhQjg-1790338311.370265-1.0.1.1-cun8fDPGdFKlz8oMIdM6Ptd1h7L8ycNiXMyLtfU8l2vIlcMZQVaViN1u1s4iJTGXW3qq7XeJ8CmnU5GavbLZ.3cTDNJn9PUWXTcl7eaelSkMnwwAGf_Kkkri9N7uCz4K",
+      "value": "EJEIEu3xbTh6aRe22L9PcReQ3VQCgI2xhKZhWRRLNN8-1790476565.162124-1.0.1.1-gTK4vmdFBRnk8.DoNdws1KyNqjLk1NdCFg1wmvApyKJtB7jqRQoo8BkwfhhBeMnzPP9sU.4K1Jig5coJwfd9DaITqio8eU8q_6M_q2cc3z.2URqjUVnDrzESQzLgbmjx",
       "domain": ".carnetadapt.org",
       "path": "/",
-      "expires": 1790340111.407614,
+      "expires": 1790478365.190012,
       "size": 205,
       "httpOnly": true,
       "secure": true,
@@ -117,20 +101,20 @@
   "headers": {
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cf-mitigated": "challenge",
-    "cf-ray": "a409ef0dacc569d8-DFW",
+    "cf-ray": "a4171e63eea2e1b4-ORD",
     "content-encoding": "gzip",
-    "content-security-policy": "default-src 'none'; script-src 'nonce-x6mj9cIXJitD2rD5XRLvKk' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+    "content-security-policy": "default-src 'none'; script-src 'nonce-WR3UbKDq4AP0WBQi7Vx6Ge' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
     "content-type": "text/html; charset=UTF-8",
     "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
     "cross-origin-embedder-policy": "require-corp",
     "cross-origin-opener-policy": "same-origin",
     "cross-origin-resource-policy": "same-origin",
-    "date": "Fri, 25 Sep 2026 12:11:51 GMT",
+    "date": "Sun, 27 Sep 2026 02:36:05 GMT",
     "origin-agent-cluster": "?1",
     "permissions-policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
     "referrer-policy": "same-origin",
     "server": "cloudflare",
-    "server-timing": "chlray;desc=\"a409ef0dacc569d8\"",
+    "server-timing": "chlray;desc=\"a4171e63eea2e1b4\"",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },
