@@ -3,11 +3,11 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "9_AxQ_7RDDcmeMnf55bHwDuJYB_aoGYbAFgyQW9bC4I-1790476005.47387-1.0.1.1-x9rG1oTJ2XEzKi93DQRf0ZOdJr34b3_j5gF3leapjLvLugqRxN4PleSCkUCSqmTxWLLzqWN1AkwZOnQBLI1nbZjdRpUEw7d6bJJeCNyFObFVoG1IOUg.UO0wJflDkBU3",
+      "value": "iHxHjrbFZl3o0xcpqFK7dz0hQnOgmM607eL.r9yi0x4-1791084160.690799-1.0.1.1-zkeQQ79NVGZW2j4Gsu0r_flkpkDdOZROBYA0qhngxVxeDa9OgXpTbOtzz9zmV783QJAo8xiYxPTZNr53APHux0iYoByaZ1rFNf8F2Bec5B.pbDE1habEDuK8IJIilZMo",
       "domain": ".fresquedusol.com",
       "path": "/",
-      "expires": 1790477805.477319,
-      "size": 204,
+      "expires": 1791085960.71878,
+      "size": 205,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -20,23 +20,23 @@
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a41710b57ec4d293-SJC",
+    "cf-ray": "a45110410c0229a8-GRU",
     "content-encoding": "zstd",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Sep 2026 02:26:45 GMT",
-    "last-modified": "Sat, 26 Sep 2026 22:58:19 GMT",
+    "date": "Sun, 04 Oct 2026 03:22:40 GMT",
+    "last-modified": "Sun, 04 Oct 2026 01:02:15 GMT",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
     "priority": "u=0,i",
-    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tdj4DGLnfxiz4J4t2GNTrVJj5U%2Fk4jCcmjZ1VcyuBJ%2FYtyw07LIUkrmMKj0t6%2B2zB%2FoGOz5HJqSW7Oirl9dqe7roVcwNSAob6q%2FhtjzHRj7ddbsD2OYCqVBUlVDuvsaCzWnX\"}]}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dCHuiqnhCfTZjcBcBz7nKXZbE481pHGsrQ9ejv%2FEu5nnb7Py8tBPMRaSCdV96RCyjo%2BhXl0QhZD%2BOIHEsmO9iLLsq0uxoSojsi%2BQr9QZV4OfE0tQsnBtFNj%2B1cBi6v858H67\"}]}",
     "server": "cloudflare",
     "server-timing": "cfExtPri",
     "vary": "User-Agent,Accept-Encoding,Referer",
-    "x-powered-by": "PHP/8.2.33\nPleskLin"
+    "x-powered-by": "PHP/8.2.34\nPleskLin"
   },
   "endpoints": [
     {
       "hostname": "www.fresquedusol.com",
-      "ip": "172.67.167.51",
+      "ip": "104.21.16.95",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
