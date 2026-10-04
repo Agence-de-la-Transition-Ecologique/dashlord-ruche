@@ -33,6 +33,14 @@
       }
     },
     {
+      "type": "google tag manager",
+      "url": "https://www.googletagmanager.com/td?id=GTM-PL6WM6MS&v=3&t=t&pid=1532926003&gtm=45He69u2v9196712024za200zd9196712024xf1&seq=1&exp=115938465~115938468~118897920~118897930~120385422~120469145~120469153~121427142&dl=filieres-rep.ademe.fr%2F&tdp=GTM-PL6WM6MS;196712024;0;0;0&frm=0&rtg=196712024&slo=26&hlo=3&lst=2&bt=0&ct=3&z=0",
+      "details": {
+        "id": "google tag manager",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://cdn.tarteaucitron.io/css/tarteaucitron.min.css?v=1.35.0"
     },
@@ -47,15 +55,23 @@
     {
       "type": "unknown",
       "url": "https://logs.tarteaucitron.io/collect"
+    },
+    {
+      "type": "google tag manager",
+      "url": "https://www.googletagmanager.com/td?id=GTM-PL6WM6MS&v=3&t=t&pid=1532926003&gtm=45He69u2v9196712024za200zd9196712024xf1&seq=2&exp=115938465~115938468~118897920~118897930~120385422~120469145~120469153~121427142&dl=filieres-rep.ademe.fr%2F&tdp=GTM-PL6WM6MS;196712024;0;0;0&fin=1&z=0",
+      "details": {
+        "id": "google tag manager",
+        "message": "Use hosted Matomo instance"
+      }
     }
   ],
   "cookies": [
     {
       "name": "cf_clearance",
-      "value": "UcW0nGk8OjM3Kyk7lfs3xV54x8qbOn1yiSt0yl9xumk-1790476733-1.2.1.1-Y5WXqIYxvmiohG9HnabnzEy51..k8.WLB6_JVo8FbAtGtYJbZRqY3d8Cfy.alIh7e5a_mL5dJuD1FMaLMYThWKl1Xbmi5nQOhTghQ1v0U6EXE7Yb28c_Vu9OVoC26_bMzjCRDpIKJm2npQelA4SEC7dFU2sqQH5cZsujAjZyiOlrNSohVa2s5B_0RYW2j6CnF6lFgcLYNTRWE7m76dFrTVxmrqjJkE8cVd_2H3zXYlaz9LjcEkFOSDbxcS11D1p7JW6WTzU5kJlLUIFwjS0DqMOxq4CV0iQokFP8iJ5ruwk69aJrhmNcsVAlM6AKGU0yISvbnnPbrKnsBZPVzvrNThtEUdESVBuvyk2LBfz24lwzFBbT4R.iscJuPyMeuHq_bs5MGSv8ojtvWUYvWxWEgxLWyStkylbkxKFkidC4rOejlo.Z8qB54zApxCFj_0qc9dY6yx6e7VFRJ7QZ00muIOn6HvT2mU5Vyh4bbQgqbLaMqzq2tZ1yFZ_csdIG3RZut5mwWqkfe29K3BOphffLAS_XySrzgNiNhevEjm6nNIxEeDdYboNB.qbqP5sS5K2X8ZBZAJdUY9MCUDxE6UIhmpgLuQoPHJdanKWc6SS7kyJsW17Rrbzn0XEaE4GCNlZdNaz3qKCEPCMF6HyA4Y0BWHk3ARpmvLu18L9yb9XTF10G0TLdXy4rOYJuyFjBl0wPTmTHSJCGpIjsuKM8rgAWJhjoSyg8Hw4otVAEQaf.ZS5G..5VuqV3.LAe0CuV2iVw",
+      "value": "B_PYrbSFKYU71NFo4ScFLbGchMSiOs28fhOp7Y58CxQ-1791084932-1.2.1.1-C6zouXqDaZSgoFkTCtYV0m4FuGjumxO_8Zt1WopqEo.fKPg2ahOkkUMCPVRvDGtYv70zd_wtTHFMXoos3m9._s9K52kQWQtrEefb1b1Q9ilLO5HQH1gvBoDigfwzZzcfQYXHi0cyF9ogmvppfZKIlzgSH58HOWE1uNFkKONBty6g4TD9Tz_rjNkVUEWUUA8eTgujH1NSwCNRjgd.H5NWb1IpR2G86qk7xsk._6YnBxV6HFFPiWsTUL66fEv27NvxI4PVuONpOZQt1ocXzFLBtqPDPFTacSy_Z_IwCaV9RDViR0kk.mFz41mJJpyeoCY9A_2c.Rc7BReRPeoU5VSNhnnpOE8XHMaT648EHGgD8_5yPPyLnqcDVSXlko276kbrso7GtF2JdIAWrJgoAz.bVw0etgY3LCFpJqpbulEcbMT8O2DxZY34J7bvx7xXnt6uw9B7uL.awt79Lj2mqE5Q0CgIlkjR3mW4M13B6fvHvswyGdEdV6h0OYYzMaBOwoRrxXPfO7WLF7ozLdMQT0qIu9ZQCeEVwpWaRheA9_JmEsTFRy0d9AI9nD3_R3eR_zcHegjeCBT2fol97Ye3TbUPCRvdQtZ3vyj4PVyFjbXB2zlzLpwVdf8IoUx86qPpFV1KQ8J70wWQkKAgYnD8pUI3D0pTq1be3UdRp7mIIIXC4_aOqqmJ0a4CvX7f1XAZC.dY7yP5lE7ZQbW7r3eyVy89foQrBL092IwHv_lGfIBsgIrg.v0EqmlP3zJ8MiGXAq.E",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1822012733.862457,
+      "expires": 1822620932.435692,
       "size": 843,
       "httpOnly": true,
       "secure": true,
@@ -68,11 +84,11 @@
     },
     {
       "name": "__cf_bm",
-      "value": "yemgt28b.WTlHILYb5fe6b8y0tconiUzc_pr_jjim2s-1790476733.8571424-1.0.1.1-pamivm4H7sOhv.X6xuQ5FVSPXoqK2y6rB3eNIyyKT5DmFKhpDRMGetgHTT4H1BR9fmun7G_cRIT5w8MTC0lHJ9P6xIsm7_BZNlFzfAGiLe_DQniOq6bhlS.UI1oZtUbQ",
+      "value": "hNnJufh4P7gwRPL5TskTKAAf_vk91.ppAnwgDbbLjBM-1791084932.427202-1.0.1.1-0HZWpJ8E4l6K1j0wvoC53Fy4ppiaTMRqULYUDQ9lPXoxbsRvN9nI8yksJQHF4yuQJJJtaNe7c29J5uMJakRxpTOwRheNbfhrZ8WSSA_F8XDtUOnzVJvqcw22jfN8v9JJ",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1790478533.862533,
-      "size": 206,
+      "expires": 1791086732.435803,
+      "size": 205,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -85,18 +101,18 @@
   "headers": {
     "cache-control": "max-age=10800, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a417227fdaf4274d-IAD",
+    "cf-ray": "a45123177edbba00-SEA",
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-security-policy": "frame-ancestors 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 27 Sep 2026 02:38:53 GMT",
+    "date": "Sun, 04 Oct 2026 03:35:31 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 25 Sep 2026 13:13:55 GMT",
+    "last-modified": "Thu, 01 Oct 2026 09:37:01 GMT",
     "permissions-policy": "geolocation=(self), microphone=(), camera=(), fullscreen=*",
     "referrer-policy": "strict-origin",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=wzlUuQTbWg865HMGNz2ZfULWZbEGIZZccLgMGNlTsZA-1790476733.412245-1.0.1.1-xNlhBjGdFKtdqjugMOjnY71Ak5wQVlSF9W4FIHT1n0cHM6Xp0OSb0vhNmaIYl73gqF1YhpRDKUKSk3qmjdDiR0OFMpCvBPCIKr_5j_L57D3HSYI9NqIl7rPwLsTOZ_gS; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 27 Sep 2026 03:08:53 GMT",
+    "set-cookie": "__cf_bm=6BZQXkTZ4m5BqrzZjuvMfTerDvFAyqu_RJTZ7InrC4g-1791084931.761512-1.0.1.1-_e2sBAV4U4ddd_FruiicN8r7fTndvvz2qyfSTJ3TwziBtRNzr1rKvuO1j8UqM8fad13_.XhXRQrBog6Ig0VRbLpDRERq4nQ5riKJHdX1F5jl6IfuUimA4PSl3IoNg3ef; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 04 Oct 2026 04:05:31 GMT",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
     "vary": "Cookie,Origin",
     "x-content-type-options": "nosniff",
@@ -183,42 +199,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.193.229",
+      "ip": "104.17.208.5",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -237,7 +219,7 @@
     },
     {
       "hostname": "cdntag.tarteaucitron.io",
-      "ip": "46.105.202.123",
+      "ip": "51.68.111.231",
       "geoip": {
         "continent": {
           "code": "EU",
@@ -293,7 +275,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.163.97",
+      "ip": "142.250.69.168",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -347,7 +329,7 @@
     },
     {
       "hostname": "cdn.tarteaucitron.io",
-      "ip": "46.105.202.123",
+      "ip": "51.68.111.234",
       "geoip": {
         "continent": {
           "code": "EU",
