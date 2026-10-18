@@ -18,15 +18,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.tarteaucitron.io/css/tarteaucitron.min.css?v=1.36.0"
+      "url": "https://cdn.tarteaucitron.io/css/tarteaucitron.min.css?v=1.37.0"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.tarteaucitron.io/lang/tarteaucitron.fr.min.js?v=1.36.0"
+      "url": "https://cdn.tarteaucitron.io/lang/tarteaucitron.fr.min.js?v=1.37.0"
     },
     {
       "type": "unknown",
-      "url": "https://cdn.tarteaucitron.io/tarteaucitron.services.min.js?v=1.36.0"
+      "url": "https://cdn.tarteaucitron.io/tarteaucitron.services.min.js?v=1.37.0"
     },
     {
       "type": "unknown",
@@ -35,27 +35,11 @@
   ],
   "cookies": [
     {
-      "name": "cf_clearance",
-      "value": "qSwThu7S3EvMw9RcdObkkpHI3gyrGiXYI0teS9YtesQ-1791686310-1.2.1.1-pRWm_utOZWly3C6yzRTc6ceiffyPaV5j3hNW3FqBiR3kDWYPHXMq63Ca39qyuK5cruiLcRk31ooBr8XcerMyerm69FN9Z.nwqCzbZcLL1.svuxjBAViO6nX1eF3g1IX.dCBTmhMQfxDQ9Px5yVk7QqtzFRDWIFhcNe9M9HaIm5EF4uaCTmRA_VKc1ToFJQNB5ciNJycBw7RWRUJ4G3udKjwIoISmQghqJBEC5ShRfF5v3EtEY2JcwgNzK8g7eN2uC88fbApPTYY..h440UF8te0dnr.Ntmy.nWAuhilBi2UPETRpWISPmZ7gjbaSAjtN2L3v_XCxftENbbYjmgK39qJNbALfcl21IbV1OTMyoPG1HhQ.oH9wOGxSowdBw3GFOxe4uASJLXWQrXRcO2oyU_pqjsxuFPX33xfy3keErDYQnsdabzwcP24gW1oUgT31ztxkSbY1V_d599QN6rUkgTOn4A3osXrid0GHAHVlwym1f6jOibU9Fcd.HiWOkwSvlqo2_iN9JqUz4rFCR1ufCCDRoo8yxMbXlY0lHlg1ylXwLYcawYbEaTpXCaTndsxDqNzcHluHQwDFUUKGY7TmNNneQIkX4Or3.8xkICMzUDoHfjIkGmyQqYqKAsOeB0SZL.5I.aGjIc3wKsDU6MJ1rkrLf3O5eA1XrcWWm9vahuwcATS2hQEfd7ukDnhTltFC.gYeBbaTgEb.pBCaNuKQGDaeMFi_Y2V72W.0KMaKoohfWzuhBQvBfAQeDkKULl1eCtse0XyLLXWina4niNkAdQ",
-      "domain": ".ademe.fr",
-      "path": "/",
-      "expires": 1823222310.017621,
-      "size": 865,
-      "httpOnly": true,
-      "secure": true,
-      "session": false,
-      "sameSite": "None",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "partitionKey": "https://ademe.fr",
-      "sameParty": false
-    },
-    {
       "name": "__cf_bm",
-      "value": "OThvQHJ_4v270f9FX6FuTLIaP2nfaWo_p047pQBeAr0-1791686310.0088296-1.0.1.1-quJSIYxXR7Dw73f9peJhkm_y1j3adkeiSiHysvk25BnN3qTHdFjPVl.f.QJuj8Swj4peCKe_x2_PBRUH78dRQh.CXSgKf1MrZyckzaXeSMDvAc6_2Q5MCZ4EWGIeJlNX",
+      "value": "lDcdiS0vb9IX7FvEK41B97zgKnhZjRnatQzvw9YqdHA-1792288462.2271621-1.0.1.1-ejQvQOF78qwPlWPmXGNer8i_QyP14fi28b8bSB0xb65_YnqcyZ_P501DQID7IW9k7AN4P5mCjFhKCCoZF4V9EuyffPYyuNuy5I_WMqWsERFxLIlq7CQIZLH_zzgf5tjc",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1791688110.017716,
+      "expires": 1792290262.23711,
       "size": 206,
       "httpOnly": true,
       "secure": true,
@@ -69,17 +53,17 @@
   "headers": {
     "cache-control": "max-age=0, must-revalidate, private",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a48a7d22bab6dc36-LAX",
+    "cf-ray": "a4c3ea1de958fda5-LAX",
     "content-encoding": "gzip",
     "content-security-policy": "frame-ancestors 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 11 Oct 2026 02:38:28 GMT",
-    "expires": "Sun, 11 Oct 2026 02:38:28 GMT",
+    "date": "Sun, 18 Oct 2026 01:54:21 GMT",
+    "expires": "Sun, 18 Oct 2026 01:54:21 GMT",
     "permissions-policy": "geolocation=(self), microphone=(), camera=(), fullscreen=*",
     "referrer-policy": "strict-origin",
     "server": "cloudflare",
-    "server-timing": "intid;desc=08aeb20c84daaa76",
-    "set-cookie": "__cf_bm=L8M0Vntva1_eiXOYNk5p367IwMnV5txODLzwNgqDevo-1791686308.2718763-1.0.1.1-bjNv5vreV4G96PCGRtFhQ30_YWDU3nR71NcL8EZVTUDcG8cPHUIdiWI6_A0RFIFsmD.POQjv9k1q9XZHZciOBkXf_m4iOsX36VVdEeBXM0JdNQj3Fq6nqg497X3.TlQG; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 11 Oct 2026 03:08:28 GMT",
+    "server-timing": "intid;desc=34c1d8e16b5c7864",
+    "set-cookie": "__cf_bm=fUe95Z1ljboLnNGbBw_YoS5GeHKY3YiVwyIxe2XlGHQ-1792288460.4627445-1.0.1.1-BxQ.4hkYggc4MPYxVbVP8LW6npL100g_rK.7vBzsKtFdMBEisQRKAK.TcLh_dnREdbx4UmpMhn960p8CjFSp7T2hpF.rROh8KDRIURnqfYVIThNBrFYRQC479LiZr5QW; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 18 Oct 2026 02:24:21 GMT",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
     "vary": "Accept-Encoding,Origin",
     "x-content-type-options": "nosniff",
@@ -90,7 +74,7 @@
   "endpoints": [
     {
       "hostname": "renovfriches.ademe.fr",
-      "ip": "104.18.1.202",
+      "ip": "104.18.0.202",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -166,7 +150,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.215.168",
+      "ip": "142.251.40.104",
       "geoip": {
         "continent": {
           "code": "NA",
