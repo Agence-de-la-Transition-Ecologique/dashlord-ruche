@@ -16,7 +16,26 @@
         "href": "https://carnetadapt.org/"
       },
       "link": "https://carnetadapt.org/",
-      "line": "--2026-10-18 02:14:47--  https://carnetadapt.org/",
+      "line": "--2026-10-25 02:25:52--  https://carnetadapt.org/",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "maintenance.ademe.fr",
+        "port": null,
+        "hostname": "maintenance.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://maintenance.ademe.fr/"
+      },
+      "link": "https://maintenance.ademe.fr/",
+      "line": "--2026-10-25 02:25:52--  https://maintenance.ademe.fr/",
       "broken": false
     }
   ],
