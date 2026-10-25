@@ -28,11 +28,11 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "uQoKf15kRia9mivSZmqeypL5lOM.F4l_CWON2j7GJcY-1792289934.638338-1.0.1.1-A4filQAo0lHt.a1dq4QkrK4UJWgGXmRYkJFZKNXF1EnCxY8Qu0TLl5KjwatIbfz_zcBt75PUbpLGDYOL8ZK86DXPRNJ2tJFm_mLX5MHYa7S5x3gSaUkvvckffIN3DXeM",
+      "value": "h9VydqQaJOgoZerSjjX.xzIqXqTXz4oDyPwr8X_WEEw-1792895368.7685874-1.0.1.1-OWsA6Y75MZ1eM9cWcYMif67qgdkuq_6gwSNLZK29pLuEdIKFoc4R7JRDTlFZ94fa22Ib1aDxAMVrRGYxRNbjZe2QtBYlkT4jSEkhAL_2XfqynA4LLcqRC4EnxTYYloeA",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1792291734.647816,
-      "size": 205,
+      "expires": 1792897168.777726,
+      "size": 206,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -46,13 +46,13 @@
     "access-control-allow-origin": "*",
     "cache-control": "no-cache, no-store, must-revalidate",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a4c40e0eea6b5730-LAX",
+    "cf-ray": "a4fdcb2c78ac1ccd-MSP",
     "content-encoding": "gzip",
     "content-security-policy": "frame-ancestors 'self' prod-bilansges.prod.ademe-scw.fr;",
     "content-type": "text/html",
-    "date": "Sun, 18 Oct 2026 02:18:53 GMT",
+    "date": "Sun, 25 Oct 2026 02:29:27 GMT",
     "expires": "0",
-    "last-modified": "Wed, 14 Oct 2026 07:53:04 GMT",
+    "last-modified": "Thu, 22 Oct 2026 14:53:49 GMT",
     "permissions-policy": "geolocation=(self), microphone=(), camera=(), fullscreen=*",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin",
@@ -66,7 +66,7 @@
   "endpoints": [
     {
       "hostname": "www.bilans-ges.ademe.fr",
-      "ip": "104.18.1.202",
+      "ip": "104.18.0.202",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
