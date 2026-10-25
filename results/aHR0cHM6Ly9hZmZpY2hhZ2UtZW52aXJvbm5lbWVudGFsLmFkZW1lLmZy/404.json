@@ -16,7 +16,26 @@
         "href": "https://affichage-environnemental.ademe.fr/"
       },
       "link": "https://affichage-environnemental.ademe.fr/",
-      "line": "--2026-10-18 02:10:14--  https://affichage-environnemental.ademe.fr/",
+      "line": "--2026-10-25 02:21:00--  https://affichage-environnemental.ademe.fr/",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "maintenance.ademe.fr",
+        "port": null,
+        "hostname": "maintenance.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://maintenance.ademe.fr/"
+      },
+      "link": "https://maintenance.ademe.fr/",
+      "line": "--2026-10-25 02:21:00--  https://maintenance.ademe.fr/",
       "broken": false
     }
   ],
