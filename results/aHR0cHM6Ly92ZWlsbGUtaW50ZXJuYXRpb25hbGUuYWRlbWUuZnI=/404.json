@@ -1,0 +1,43 @@
+{
+  "links": [
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "veille-internationale.ademe.fr",
+        "port": null,
+        "hostname": "veille-internationale.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://veille-internationale.ademe.fr/"
+      },
+      "link": "https://veille-internationale.ademe.fr/",
+      "line": "--2026-10-25 02:21:42--  https://veille-internationale.ademe.fr/",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "maintenance.ademe.fr",
+        "port": null,
+        "hostname": "maintenance.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://maintenance.ademe.fr/"
+      },
+      "link": "https://maintenance.ademe.fr/",
+      "line": "--2026-10-25 02:21:42--  https://maintenance.ademe.fr/",
+      "broken": false
+    }
+  ],
+  "broken": []
+}
