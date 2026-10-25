@@ -16,7 +16,7 @@
         "href": "https://renovfriches.ademe.fr/"
       },
       "link": "https://renovfriches.ademe.fr/",
-      "line": "--2026-10-18 01:55:14--  https://renovfriches.ademe.fr/",
+      "line": "--2026-10-25 02:05:59--  https://renovfriches.ademe.fr/",
       "broken": false
     },
     {
@@ -24,18 +24,18 @@
         "protocol": "https:",
         "slashes": true,
         "auth": null,
-        "host": "renovfriches.ademe.fr",
+        "host": "maintenance.ademe.fr",
         "port": null,
-        "hostname": "renovfriches.ademe.fr",
+        "hostname": "maintenance.ademe.fr",
         "hash": null,
         "search": null,
         "query": null,
-        "pathname": "/robots.txt",
-        "path": "/robots.txt",
-        "href": "https://renovfriches.ademe.fr/robots.txt"
+        "pathname": "/",
+        "path": "/",
+        "href": "https://maintenance.ademe.fr/"
       },
-      "link": "https://renovfriches.ademe.fr/robots.txt",
-      "line": "--2026-10-18 01:55:15--  https://renovfriches.ademe.fr/robots.txt",
+      "link": "https://maintenance.ademe.fr/",
+      "line": "--2026-10-25 02:05:59--  https://maintenance.ademe.fr/",
       "broken": false
     }
   ],
