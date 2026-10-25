@@ -1,0 +1,43 @@
+{
+  "links": [
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "ecrains.ademe.fr",
+        "port": null,
+        "hostname": "ecrains.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://ecrains.ademe.fr/"
+      },
+      "link": "https://ecrains.ademe.fr/",
+      "line": "--2026-10-25 02:27:26--  https://ecrains.ademe.fr/",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "maintenance.ademe.fr",
+        "port": null,
+        "hostname": "maintenance.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://maintenance.ademe.fr/"
+      },
+      "link": "https://maintenance.ademe.fr/",
+      "line": "--2026-10-25 02:27:26--  https://maintenance.ademe.fr/",
+      "broken": false
+    }
+  ],
+  "broken": []
+}

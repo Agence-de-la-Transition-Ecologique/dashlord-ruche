@@ -1,0 +1,97 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://maintenance.ademe.fr/"
+    },
+    {
+      "type": "unknown",
+      "url": "https://maintenance.ademe.fr/logo.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/scripts/precursor/main.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/h/b/scripts/precursor/d2d3316b729e/main.js?"
+    },
+    {
+      "type": "unknown",
+      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.8813053468505306:1792890616:Apy5HFu-6FE3WM27Qi4T14PIGeeXSHDysV-6wM7vCM8/a4fdc79e2ae01729"
+    },
+    {
+      "type": "unknown",
+      "url": "https://maintenance.ademe.fr/favicon.ico"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "o4Cky12zUkloUjmMl26.uzvAVqzIzKTWsxveElhYaLI-1792895221.5303662-1.0.1.1-5D5Jzjs29X_WfYJBbeSKdrbhKs1Ch_b2DkKAtvMfjlQTVIoJ.kGzSUVha6DVkQprZty9OEYLehjUdNLQViU4l3mux8OcIanr.97_n7JU4GxOuL_H7BhSyjbZcyCPqPUI",
+      "domain": ".ademe.fr",
+      "path": "/",
+      "expires": 1792897021.561224,
+      "size": 206,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    }
+  ],
+  "headers": {
+    "cache-control": "public, max-age=0, must-revalidate",
+    "cf-cache-status": "HIT",
+    "cf-ray": "a4fdc79e2ae01729-IAD",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "date": "Sun, 25 Oct 2026 02:27:01 GMT",
+    "server": "cloudflare",
+    "set-cookie": "__cf_bm=oq22eOZUmhbvWGRjETMJinHhU.IKKNjCgscWULrwJjw-1792895221.4735453-1.0.1.1-MlQzE30oqP0Z3cgQKvuTmknWH4l2V3hedAfPWYvFeteYqpOt50lbIY_SY2uevaI3nXCaYS.pNhSipmTpG8o6NCdA.pa_RoHzPeZxOyhdV_pM3XyZaDcku8tqzGslm1vH; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 25 Oct 2026 02:57:01 GMT"
+  },
+  "endpoints": [
+    {
+      "hostname": "ecrains.ademe.fr",
+      "ip": "104.18.0.202",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "maintenance.ademe.fr",
+      "ip": "104.18.0.202",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
+}
