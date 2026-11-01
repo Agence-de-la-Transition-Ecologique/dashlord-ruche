@@ -3,11 +3,11 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "a6vMlUqwO8A7X.bkH2g4nLIzbvIWpap37Vm7tTnkCbY-1792894575.57666-1.0.1.1-24IJQk_Qgi01FGlDZbLOYBqghvaPjn7Xzm_WbJy75XsFxX0CbySu8aGSQ62suqMpU8v.0.jFONE0PwBgBFTbzDogNgQLJnehYSoaSpQJ5dVHLkUauya.5n9BJhs2exqM",
+      "value": "xzAkWKStAFfqHIIaWUcxu2MFdk103_iJsWR_.i_umw0-1793502440.2907906-1.0.1.1-e_MVUgx3noHQ7tuWvxliJ0CgYYMzUBESLbnVYpg4G0Q_dTbiVxHe.YX4P0csiH8H4vrgSpmgO_D0dYG9Hudsauq65o6k32pKIivrk1355NW5Y_HlK56sb5V0KgWZQveL",
       "domain": ".fresquedusol.com",
       "path": "/",
-      "expires": 1792896375.591017,
-      "size": 204,
+      "expires": 1793504240.307945,
+      "size": 206,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -15,19 +15,35 @@
       "priority": "Medium",
       "sourceScheme": "Secure",
       "sameParty": false
+    },
+    {
+      "name": "cf_clearance",
+      "value": "Cm6gTl5D4FEA7IkwmHX0Cnk8OZ8V2Nlp6YD27EX9Sn-iwFBtgxEVInkfs8wkJdyilx-CsXf3R1TsMgCD8IUMj1KmJBUMdNnckSLwFx_8dk2M7hRTfg-xMZBuX7C2guJjl40ofKTof7htTHn0ibNnV2qVBkFht7neTYB11Xoe64Ng9PaojrXJCYs7WGhxFSF6zJkDduxZt6grO_Lf2FlRGUSuV42CYZBA43_6QxQCyndhnMR7JTzH2DD6ycuUc9HIExuXf2MheeYQuuZ90phi3kAXfJl9v-9reFpcrcwmlyNmZWk9yE01fjVxZm-x2Zo4n0z_EWhJzrVZjOI1NmphoDf-WVocP5oNvBgjQXtm_lZ8arIXeXZAo1tVemed5_c2PYNPYmCtZ6ouyPnXLiKF1vL30sXU62t70kRMV5eNI2P4IQFV",
+      "domain": ".fresquedusol.com",
+      "path": "/",
+      "expires": 1825038440.30789,
+      "size": 444,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "partitionKey": "https://fresquedusol.com",
+      "sameParty": false
     }
   ],
   "headers": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a4fdb7d458aaa2e0-LAX",
+    "cf-ray": "a537b042be89e8c2-SJC",
     "content-encoding": "zstd",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 25 Oct 2026 02:16:15 GMT",
-    "last-modified": "Sun, 25 Oct 2026 00:59:08 GMT",
+    "date": "Sun, 01 Nov 2026 03:07:19 GMT",
+    "last-modified": "Sun, 01 Nov 2026 02:02:24 GMT",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
     "priority": "u=0,i",
-    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hI%2FCbsTZdqIeDxFnQVKUVUTeZnpRJH6aU1gk6xjAtFYUGAFii1oE0pZa1I566nu19k%2BCrN2jOKaHaOswi0X%2F1ZpxKFga45xxltsNlU4d1hz8Gcom3hIrrcpCPnfZt8m5OmNW\"}]}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FIZ44CCVBn%2FmDrst552tSY%2FjHk9ux1XNIOfY7IsPctINaoemfmszjPu6rheWpSl7gGw0hf03OV4beO8p8%2FtXROkQbncelkNU%2BK15BzyZETQntrK7j309BiWyiMykK1jGER2B\"}]}",
     "server": "cloudflare",
     "server-timing": "cfExtPri",
     "vary": "User-Agent,Accept-Encoding,Referer",
@@ -36,7 +52,7 @@
   "endpoints": [
     {
       "hostname": "www.fresquedusol.com",
-      "ip": "104.21.16.95",
+      "ip": "172.67.167.51",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
