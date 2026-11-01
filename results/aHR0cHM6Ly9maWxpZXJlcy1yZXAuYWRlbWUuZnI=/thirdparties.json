@@ -51,12 +51,27 @@
   ],
   "cookies": [
     {
-      "name": "cf_clearance",
-      "value": "RhawzYNnZDf5tbc9e0WGFW8dPxfE5mklhmJ6bZWEEtg-1792895342-1.2.1.1-HWRAkJEJ3r2Qe650TKRFNl4y20cSpbGJTwKDLIFtwWCdxHlzjImFLfY6NWjHdDBlQhf1aqe07M7j.zxqucrgDYXK5qrQC_xHcMhrs7Li7JywYFxKExJGajJ5G5KUcJKhYN2JtdFlrjwCC2V.7TC3W6ZnZfWyM_ic7IR8cI2POkVBagzVVaQBznMiiebNz8FW20EK1U69TZhXKUdDmn1XK5XYXE3JIkJZubFZ0r4Oi_8ZfUVLKCvufEN_g8m2NejXdg_Ti__NlSr39ix9st8w1hO.u4wWhiULdBHH03VmeVLu8KruMj143KgYKob413zwTMK29w5E6mrF07GZoMcv9alKai5hhb3_aF.IJcnMuwLxweAZC28.tJ_SV7L918K3RLRQ9eBDcGtoU_QRXn4wAmVC9g431juLUk8a.TXdVgrdwk63Wv5Isb8ZJcKf9Mxp7yJyQcCKjmL19DxHLeVmXVqg4bzcv0k1Gsk6X6pj0nxQY3IyUM81PGItcRAczjSkhEDtyIUU06HV.I5XFcCQ8By.JK1YblbMPtsYrb1LGQ3VA2WZVq0YZXOeCMQ5opY9qbjm8Eo3JVF6F_VyD0jWhQ71O2LhN1jszWT6LXdRdMBsVnRtRvPBcosx7e8jGuH1SpiY4UmY_SP_N7wDp4Vm9RKGuOksC15MyfMqLGmtJtwKLbIoq0t7RYtkDyV6ep1XdgtciWwbr9bAIbVe_tAKnA",
+      "name": "__cf_bm",
+      "value": "oOkVo6R_hVyX6tgdd9Km8_Jz_w7vDfIGX_KYu8akdNM-1793503218.967835-1.0.1.1-HUM4GLbvKAunGlKcQPphjwogAywKCvFsPqvxez3zA8P02jA5ITsQIsymOam1st_V2Hxh7eJkRFmfq.W_Jgndt.WOKCo_2MFDA9Ne.Hwxj9pSulUlWdzxKpWz.e0maaHN",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1824431342.075852,
-      "size": 801,
+      "expires": 1793505018.981867,
+      "size": 205,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sameParty": false
+    },
+    {
+      "name": "cf_clearance",
+      "value": "CixH_j2DVmvrVKJd1wbqo-4p9fvC-hxDdMeItfpT-EsBIZK-ZbQL4bo5IJlLJOIm1UHsg_TJ1MXM_kKmp7uIhgqgxuG0iJuQ41Ox8toWM6hwwHSlMYacfQohqS5gFCPs1P9tAnIpzz0st2DYr9rooCM_6SlKwLanYQJECL02vtNcLX0NrgTCFc9I0PmRopasBrwBVtB2J1Psuyi-m9mNzfAljBMBFKbYTJdKhkSLe3VHJq0qQf5OCz8ZHR3MWPgbjMMQOmIE7fuGTvjDYWUh8nzN5JkmDSwlUGqyzbNIKMsAtWAEeZhkULFn4XDj23_mgvrb3DE1ToBc-msE4L8mwLxkBpjFg_vDX5iNPltigtfZ1nd35aSDjIMl2K9yKOC__armJyTSIe63B2qLXImvv5f97EWs4A4kZHTx7pdYEjKteZMIF4lQjzf2wM24Flc_hTzvnWcahDuIXdLVdP9HmUIgR86JwAdD34qtK2-MpC0fnVtz4Zrfn2R8ogt6oAfdrfYyfzB-8F6MLUG8PfKoFRYnD5nlPhzApRn7sC8EPp7KABx61FFSiQctOEZ9AAikdWSbQhEDYcv0s45YDvyrl6O2nLPnXcrpeirBD-Lr-kYyqmrJhIBJurtyKeQtqITBjdo",
+      "domain": ".ademe.fr",
+      "path": "/",
+      "expires": 1825039218.981797,
+      "size": 655,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -65,38 +80,23 @@
       "sourceScheme": "Secure",
       "partitionKey": "https://ademe.fr",
       "sameParty": false
-    },
-    {
-      "name": "__cf_bm",
-      "value": "QY._1PjEo.cvVpupzEcctDh3K5AInc5Lk2SUmWu4NCo-1792895342.0694218-1.0.1.1-RLa488bro5KvRDSHN2kP51PtyWHACoY1jZuMCBNKc1hMrSt7zUZwzLzoC74Yj_vguekCZHRdVLRnF6UpdEhvkpM5e9dXJJ2ZS38k_EYWaafwQbiLkdillcAO8JehYY8d",
-      "domain": ".ademe.fr",
-      "path": "/",
-      "expires": 1792897142.075941,
-      "size": 206,
-      "httpOnly": true,
-      "secure": true,
-      "session": false,
-      "sameSite": "None",
-      "priority": "Medium",
-      "sourceScheme": "Secure",
-      "sameParty": false
     }
   ],
   "headers": {
     "cache-control": "max-age=10800, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a4fdca8d2ba3311e-IAD",
+    "cf-ray": "a537c34aa961c89a-LAX",
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-security-policy": "frame-ancestors 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 25 Oct 2026 02:29:01 GMT",
+    "date": "Sun, 01 Nov 2026 03:20:18 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 22 Oct 2026 15:48:40 GMT",
+    "last-modified": "Thu, 29 Oct 2026 14:01:48 GMT",
     "permissions-policy": "geolocation=(self), microphone=(), camera=(), fullscreen=*",
     "referrer-policy": "strict-origin",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=7oQdyGivQ_aQvdxQ1mNouUP.BYBcUcmi6J1L968MtCk-1792895341.6212554-1.0.1.1-ejEY0eZhddDi4.YtlqVrswnAQutl7jDhFoFXb0CfvjuDuOFaJNvAhDadrAJQxHk6YaCklbbWHIw.jfSS1rngbBrOhpKw0zE5nC73x9NouaLzBUrb8fg75madW_0fQaA_; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 25 Oct 2026 02:59:01 GMT",
+    "set-cookie": "__cf_bm=KmRXZqDZ2QkGT2NWtjB__Mb1z2L.Gnu8Z4c1gotIVpQ-1793503218.3494868-1.0.1.1-YPvcJuFKKHGpp1beHlvsAsHhmdMdPfsTSqeia.IEowm6RVMt0Uqre_w_VIzZsJKxibaHwVSB8Vojr8M0l0ZzDrDKtz1A4qQ3pvvk.vIGRf3wkJNfDTXUmU38XixZ8Z51; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 01 Nov 2026 03:50:18 GMT",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
     "vary": "Cookie,Origin",
     "x-content-type-options": "nosniff",
@@ -107,7 +107,7 @@
   "endpoints": [
     {
       "hostname": "filieres-rep.ademe.fr",
-      "ip": "104.18.0.202",
+      "ip": "104.18.1.202",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -183,42 +183,8 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "151.101.193.229",
+      "ip": "104.16.179.112",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États-Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -293,7 +259,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "192.178.155.97",
+      "ip": "192.178.164.97",
       "geoip": {
         "continent": {
           "code": "NA",
