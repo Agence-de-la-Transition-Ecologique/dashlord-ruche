@@ -10,15 +10,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a537a1956d7a5e41"
+      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a571579edc67a221"
     },
     {
       "type": "unknown",
-      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/h/g/scripts/precursor/c787ce48cf6b/main.js?ray=a537a1956d7a5e41"
+      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/h/b/scripts/precursor/8340802ab0bb/main.js?ray=a571579edc67a221"
     },
     {
       "type": "unknown",
-      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/h/g/precursor/c787ce48cf6b/0.30279337146258767:1793499563:4-7bi7fd8VImkCBcyY2A7bAsALWrMtGh0Af1Ob08PbI/a537a1956d7a5e41"
+      "url": "https://maintenance.ademe.fr/cdn-cgi/challenge-platform/h/b/precursor/8340802ab0bb/0.2651500113890899:1794103819:eBmnZD_zatEOSC6gvwwuIKxL37I0x2G2Ws8ItJ_KTH8/a571579edc67a221"
     },
     {
       "type": "unknown",
@@ -28,10 +28,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "RrmXO8pULDCWupREl6nbEZfxzNB7ujBIbv.Hh7Wrxrs-1793501837.7636042-1.0.1.1-PfyEZcOWukzBnc17tLQgyEfGoHLGlPDIOFtiBh_u4IVItrWmT_49HrLCHd4r2KGa8VaGwf.jji7il3engbhS5i5vrEdeRbRbLyM8sftnTPSkrFdD5Wa6eH6dFvTBS0nE",
+      "value": "kRxb4lnPgDk67n3yLl1g2kzmCT01bH9oyICH9Wid82k-1794106982.3197181-1.0.1.1-HEQtu4MfslANmK9GChkTciBVz_mdTeBA7ubGfgsejVMFh.Ba6jh3S_Rmc5HTfT8H0mQIqw1XWpkvIVKufDYpfO3I7CovIKr2t1bTvONxRcSPrxCkEUwiwaBBmQsDfy0a",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1793503637.788139,
+      "expires": 1794108782.346177,
       "size": 206,
       "httpOnly": true,
       "secure": true,
@@ -39,18 +39,19 @@
       "sameSite": "None",
       "priority": "Medium",
       "sourceScheme": "Secure",
+      "partitionKey": "https://ademe.fr",
       "sameParty": false
     }
   ],
   "headers": {
     "cache-control": "public, max-age=0, must-revalidate",
     "cf-cache-status": "HIT",
-    "cf-ray": "a537a1956d7a5e41-DFW",
+    "cf-ray": "a571579edc67a221-MSP",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "date": "Sun, 01 Nov 2026 02:57:17 GMT",
+    "date": "Sun, 08 Nov 2026 03:03:02 GMT",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=UdZsMShqRKgf9oLeLva3f_zbtUREW0K2bU1MXaz1Gv0-1793501837.6666946-1.0.1.1-tLPd.cNHHsAmYe.5VNhN2CTTALV2gDQUVSLaWgKHky1EcuTAu0YLJ5hf_4vAE_Bb1EPqI0KUWgnsnfVqAupt.aCnwN8usDnPRsevipL9Zc.A78PMJbzFcaB58Hmdsjwt; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 01 Nov 2026 03:27:17 GMT"
+    "set-cookie": "__cf_bm=BBJcT_bs9Wf95V7AaJwN44pT4v0Uvdb30wbzCdvPLLw-1794106982.2188818-1.0.1.1-evtobDMn9VGrCIQpK6ipXSmXYtI3OdcUq.ou8fv6zSbWr1KXd4AbiSnTFRLiRodH5czP8IBu0jnSfqisk2SUo3l1cM4gtzp2eD66cEcelKuJxb2UMBnPM6HwIphXn_cJ; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 08 Nov 2026 03:33:02 GMT"
   },
   "endpoints": [
     {
