@@ -32,10 +32,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "cgN2SsDtPofNqB2Uf3O8JOVXk9TIbdVsZPX.7U4XLl8-1793503398.9147148-1.0.1.1-ymJrLM9btcaRwq_4nj6a9UuJjYCr065iv.dy3bGXY_PQxJ460kbT3_FvQzXHEfMIwVrakRvE2vv9_rIQF9KHZdj8QDNAIHF8qofrTspDHwGmQtllIZ8s7LqxRbagzu1d",
-      "domain": ".ademe.fr",
+      "value": "DjEikvCxOLkDnkBcBp30cbH4nWUZTNzKJQ7GIjRrezI-1794108664.8827426-1.0.1.1-00HjISgbahgeTL7BGDoZrV61UhZpBmR8N5yTanIKyrD2RT1imP98Okb_WLCAPy2PkoSKuKxCDOOmfPbgufwi87ZeBKJjhAGkoEZUxtWrSB6qgFNIQTLwAgtG5HQaP_5X",
+      "domain": ".wattris.ademe.fr",
       "path": "/",
-      "expires": 1793505198.924759,
+      "expires": 1794110465.14522,
       "size": 206,
       "httpOnly": true,
       "secure": true,
@@ -43,15 +43,16 @@
       "sameSite": "None",
       "priority": "Medium",
       "sourceScheme": "Secure",
+      "partitionKey": "https://ademe.fr",
       "sameParty": false
     },
     {
       "name": "cf_clearance",
-      "value": "Cod81RoYA0LvhbGCIWLzlNFzSkL2A4DAhtkZhXfCiKd17zSg3A_9RR0g64bC93NnhZ56nQWVBRivBqmWdrJe1cdclEx82J3Lm9hPaV49Yy7Hsn2eQFNz8g2uyQjY6uczUgRnWjs6IhEnDRQgJp5sdkZZQ2dzxvVgbilhtgK_BV0agl12Qcgszs1bMN855sVLQa1Ros0IRsuib90Yz3yAM9CThSgLylOZ6yRic48ZS7_tOoJXPBmGbPLqqgEx42ey_nZiAPRJA5eC4qX45-i7UOyipQEmcuwMDBpXxu5FpQaXVZWXAZrnjU3l-VO_qPVXT7XZ10Xu8Qw--bBjDuls_NbY5RSKLof9fXvI2iQkk4cM8BCAWgXn8LAabHudzgovMINlkH0xWUCj4Mz4kC7LH4NyXnlTiAwjmcYmc88mO63dXVDPj39xzYxaQ_-lCULOnDPARVBMrTODVy99MPt1eye1nGJKIw5Xfx__Yg_9kNlPjMYza4dJvPky4LIiv4-Ir83wVTmAbhH3rymhKnCsDHhxFUopaCONTf6VdNvPBDH3cV8WzjomQoR08sShaRCKBwotp3M8FCnvREXeD7HAch9frPaz2MkTHZ-xs9Pci5zpwVd2cPGojKK3HAK0YJhE_ho",
+      "value": "Ck_nI9Pbc92ZYwoIm-v602ZejhGjf-kQRbAY_rxhQC5DzipguHNYl2zg8mv632UxJ-UJbfEjEMnRmR_Scehk20JC6qpCtwLFseFqZDHxv3K8P1L0yFRqBWqRCJSHG3oV8BDNREI5XU3n-reQ3KMiKxby9KCzG-4nIVFFuGyR3tAthQqq6hFxKD7ACe_jo7gaaCx73cV5d7xciYCvGzw-Wop4z-VNUcNnT9RwoP0zAeXhEm6kx2kz_KNWyollH5ZnGBHf8Xo4raGGWlrVZ_qyZhcyYe2vjLvuvnQO0qV38t08r2JJqi1IMuVMIdrt_54KYT4KbGyiakODNYDnHJb_AFlNZYkISIJGBk0RZ5NRhRhsnghBVoPeNGbeK_4tap04eh4DFq0nXTL3r3o5uqBeOo0z5_EOHIMQkpGG5nAeDAGYrM65bueQx-XR56kLz1xrCbb-6BzhvCi0FDgs64U3CBchevEFfMXidmpLg4-wyy-XLasX2aQxOHjy59o6YzxPt2Ww4-L432XAfSxj7-WS5M5SP8gmc30ENGnJd1BQAb75sc32EoaHpOrgc_Sm5266EViPwIRujp8A3vdOxN3Rgf_5TOclhkIJy_FAdKYj0kHOTl-S-YrxM1s89dpCODWsGHcAUPOgKdh4zVomNPLHfl4EEax6JZav9UP92Hsd2X3lPJkA5PB2Ycs",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1825039398.924668,
-      "size": 655,
+      "expires": 1825644664.994579,
+      "size": 707,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -63,10 +64,10 @@
     },
     {
       "name": "__cf_bm",
-      "value": "OSmmUQxu7P8WjHSm8cwSGXB6Z2wcfJKFuYdjr564fPI-1793503398.8601654-1.0.1.1-mW.jWGYazN1GRWa9sFBHaN9nOAYMECNUjP51khDZMPy3Ktp22Tu._KdzNpxxNqP8cXsWSCtaXd3q4yZV45b4PsN_ToGNTHAf1xAsTXRIAyTW5RCODxl9im6BsdpZOsZM",
-      "domain": ".wattris.ademe.fr",
+      "value": "qJAPg0jQNljGARWiYR02RWzAwb1mqzyXG7xpXAxpgl0-1794108664.9797714-1.0.1.1-HxX9IMXq6ERjpUm8ZHoeoRzbQGbLxWBl3tWJ9QmlmhopiegBay222WdJRR71tXC8eXFj8alwsNOVWgqi69IC58evdwE286Ty5gK_bYucHLrp98QP8Y5wzgTLqleeRjKw",
+      "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1793505198.927263,
+      "expires": 1794110464.994647,
       "size": 206,
       "httpOnly": true,
       "secure": true,
@@ -74,6 +75,7 @@
       "sameSite": "None",
       "priority": "Medium",
       "sourceScheme": "Secure",
+      "partitionKey": "https://ademe.fr",
       "sameParty": false
     }
   ],
@@ -81,23 +83,23 @@
     "access-control-allow-origin": "*",
     "cache-control": "public, max-age=0, must-revalidate",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a537c7b10be91613-SJC",
+    "cf-ray": "a57180b278cf3f13-LAX",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 01 Nov 2026 03:23:18 GMT",
+    "date": "Sun, 08 Nov 2026 03:31:04 GMT",
     "link": "</_next/static/chunks/1hv5quewe39u7.css>; rel=\"preload\"; as=style",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=D%2BlZXJxncJh2%2F6qsJRedfpsYXdjPI8EI6D1pXzYblj5i8jEVxgqMPd0ebZ4ju24xUC%2FBta%2Fjz9KknAzJxf5k509qTQ2HMeWyOlRi8Qa3R8hdwY4OXCSbOtB0Ldcq0Zm8qEeA\"}]}",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=19GCJOH4HnAh1S3O7GPp5911eQZJZlImPT0nCP9vw0k79nNKi4ErWNsUJ66UQ9q5DLvFtWlPlpczcxjS7dtNC40j6loVjwlAW24PN0OVH4UZujmVW9AnC0GRwC5%2BHZaI9py7\"}]}",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=QJsWvF_bFmlfo4eiGkRX1ziFrTGDlb_8eDFr4vcGXBg-1793503398.562832-1.0.1.1-T74BYAxLB8MyeVJ_p1B5.tJsouCCvJiE8zMhkcUKwajb_mHk5cnH97gOO23efDm4aaO2HaVOIMcESUUYv_I.nFnp4eY5TkXtYPT48IpDPtgsw0AvSCB.cigD2Ani9AsU; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 01 Nov 2026 03:53:18 GMT",
+    "set-cookie": "__cf_bm=mm1cGpiiQr9NsnsiMvAI0_Rdf2gbbKbcL_MGjX1SqUg-1794108664.7192357-1.0.1.1-QA_Od8wbMu2T0zEi_pNmvnx2Y6PjSo.gWeL1SuBDTGCK8lRAm6dna7c31OmNYkClp0l0DsAUSg1c5DBqNACnqtqkBytTaZTVFashD0dHqvZdWaK_dW3uBGjQjuLQS6a3; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 08 Nov 2026 04:01:04 GMT",
     "vary": "accept-encoding",
     "x-content-type-options": "nosniff"
   },
   "endpoints": [
     {
       "hostname": "wattris.ademe.fr",
-      "ip": "104.18.0.202",
+      "ip": "104.18.1.202",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -229,7 +231,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.214.40",
+      "ip": "172.217.75.97",
       "geoip": {
         "continent": {
           "code": "NA",
