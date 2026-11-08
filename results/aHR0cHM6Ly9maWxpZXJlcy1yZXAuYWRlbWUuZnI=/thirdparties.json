@@ -52,10 +52,10 @@
   "cookies": [
     {
       "name": "__cf_bm",
-      "value": "oOkVo6R_hVyX6tgdd9Km8_Jz_w7vDfIGX_KYu8akdNM-1793503218.967835-1.0.1.1-HUM4GLbvKAunGlKcQPphjwogAywKCvFsPqvxez3zA8P02jA5ITsQIsymOam1st_V2Hxh7eJkRFmfq.W_Jgndt.WOKCo_2MFDA9Ne.Hwxj9pSulUlWdzxKpWz.e0maaHN",
+      "value": "oyva3q9TVKEXcACRBnFVnxl83QR.6vAujQ4sKiE9_z0-1794108437.682967-1.0.1.1-Gv6akRPbOqcb9bQqEoXn_CxdvwiWBcTXlUrfxX028MUEyo9ZJSUrHZ7kb0NCr1z9ngwkBXO3B3wYNyHSN.NRAUWg7XBHS7KebjpwDN1iYIjsb3UIBG8lq0Ftg04avcMm",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1793505018.981867,
+      "expires": 1794110237.700833,
       "size": 205,
       "httpOnly": true,
       "secure": true,
@@ -63,15 +63,16 @@
       "sameSite": "None",
       "priority": "Medium",
       "sourceScheme": "Secure",
+      "partitionKey": "https://ademe.fr",
       "sameParty": false
     },
     {
       "name": "cf_clearance",
-      "value": "CixH_j2DVmvrVKJd1wbqo-4p9fvC-hxDdMeItfpT-EsBIZK-ZbQL4bo5IJlLJOIm1UHsg_TJ1MXM_kKmp7uIhgqgxuG0iJuQ41Ox8toWM6hwwHSlMYacfQohqS5gFCPs1P9tAnIpzz0st2DYr9rooCM_6SlKwLanYQJECL02vtNcLX0NrgTCFc9I0PmRopasBrwBVtB2J1Psuyi-m9mNzfAljBMBFKbYTJdKhkSLe3VHJq0qQf5OCz8ZHR3MWPgbjMMQOmIE7fuGTvjDYWUh8nzN5JkmDSwlUGqyzbNIKMsAtWAEeZhkULFn4XDj23_mgvrb3DE1ToBc-msE4L8mwLxkBpjFg_vDX5iNPltigtfZ1nd35aSDjIMl2K9yKOC__armJyTSIe63B2qLXImvv5f97EWs4A4kZHTx7pdYEjKteZMIF4lQjzf2wM24Flc_hTzvnWcahDuIXdLVdP9HmUIgR86JwAdD34qtK2-MpC0fnVtz4Zrfn2R8ogt6oAfdrfYyfzB-8F6MLUG8PfKoFRYnD5nlPhzApRn7sC8EPp7KABx61FFSiQctOEZ9AAikdWSbQhEDYcv0s45YDvyrl6O2nLPnXcrpeirBD-Lr-kYyqmrJhIBJurtyKeQtqITBjdo",
+      "value": "CnL9R6_WM9UAk-2bn61DT2pYArfughjUUjAQuUtKLcnE1kYOJxfVqm7hOSEieY_UE-4sZSVRQHJsPI5gWPz0zHDg3aSPgP6imwyOZOXrOWNlGjWiKC79InuGefjlRn9jEftj0zqLGnlGLN0DwC8tGNnxyWOn_SIk_Bq9NV3aY0CIX35kqnrtfoRCiWModuUpeOeYCn-rtv1uAkBj49oXuSfo4fXDuyk5GnTlwJwLJ2LfAyF_NS8601zr-Z5_CELSBW54UETXuU7hisW3c4ialyrnpMfnJxq6W0QeoO5UBYLa5cUeGq0dV3GnznaJcJl8oew9lq8Okw6Q15y0BqD0C_0UZtfsqlhgt2azp6JooTX381q_bJ1GvH8gjPV-RFCWKbFaHoWLA4YEBsbDf1J1IIBoKsYBdGwYXSb54NDtnZDlYsGW3TQeu99Gmj7de3O0qUtaLFJLdfu6VKt8x8K6wrHrek049R0K36qw4Ov0tb3YaPPMCuUmkX6Hdl-s2ys5ihrzB-N6nlCNzD84aYEzD_uU0Vq-VumdkWhgMRdjGjfjkweSh9Qq_I0LJ-pFW_5G_5NMBNBcyuxZm8HMl57CrjILagogxm72qS7u-C1Qfj60pSxjaVRq9Kebdnat-yjqJmdBQRd8MvcrRgUpIVhP6YdBnxf9ifN_EQqy4XB3Q_SUaaVyp-XwNEo",
       "domain": ".ademe.fr",
       "path": "/",
-      "expires": 1825039218.981797,
-      "size": 655,
+      "expires": 1825644437.700762,
+      "size": 707,
       "httpOnly": true,
       "secure": true,
       "session": false,
@@ -85,18 +86,18 @@
   "headers": {
     "cache-control": "max-age=10800, public",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "a537c34aa961c89a-LAX",
+    "cf-ray": "a5717b21ca696012-IAD",
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-security-policy": "frame-ancestors 'self';",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 01 Nov 2026 03:20:18 GMT",
+    "date": "Sun, 08 Nov 2026 03:27:17 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Thu, 29 Oct 2026 14:01:48 GMT",
+    "last-modified": "Fri, 06 Nov 2026 13:25:48 GMT",
     "permissions-policy": "geolocation=(self), microphone=(), camera=(), fullscreen=*",
     "referrer-policy": "strict-origin",
     "server": "cloudflare",
-    "set-cookie": "__cf_bm=KmRXZqDZ2QkGT2NWtjB__Mb1z2L.Gnu8Z4c1gotIVpQ-1793503218.3494868-1.0.1.1-YPvcJuFKKHGpp1beHlvsAsHhmdMdPfsTSqeia.IEowm6RVMt0Uqre_w_VIzZsJKxibaHwVSB8Vojr8M0l0ZzDrDKtz1A4qQ3pvvk.vIGRf3wkJNfDTXUmU38XixZ8Z51; HttpOnly; SameSite=None; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 01 Nov 2026 03:50:18 GMT",
+    "set-cookie": "__cf_bm=x2e8DRLg92JcIWFsH84K9moDPhbLWaMIE4VYTNVF7zs-1794108436.7708237-1.0.1.1-i1xeECDamWMoZ7dp1eHaCPKBOO03k3HCsN0QfKIqtEXvD1VmwS9pe27X2CJGzayRcA3uaFa0O4a1sIl9jJ1GymJPrsUc2VW3g26V7xKWYgxhQzWAsHBqIl4Zqyw0l9MM; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=ademe.fr; Expires=Sun, 08 Nov 2026 03:57:17 GMT",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
     "vary": "Cookie,Origin",
     "x-content-type-options": "nosniff",
@@ -107,7 +108,7 @@
   "endpoints": [
     {
       "hostname": "filieres-rep.ademe.fr",
-      "ip": "104.18.1.202",
+      "ip": "104.18.0.202",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -183,7 +184,7 @@
     },
     {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.179.112",
+      "ip": "104.16.180.112",
       "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
@@ -259,7 +260,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "192.178.164.97",
+      "ip": "142.250.31.97",
       "geoip": {
         "continent": {
           "code": "NA",
