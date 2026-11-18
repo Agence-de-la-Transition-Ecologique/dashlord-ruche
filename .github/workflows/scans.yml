@@ -62,7 +62,6 @@ jobs:
         env:
           UPDOWNIO_API_KEY: ${{ secrets.UPDOWNIO_API_KEY }}
   scans:
-    # Fixed IP allowlisted in Cloudflare: see infrastructure/main-infra/scw-dashlord
     runs-on: [self-hosted, dashlord]
     name: Scan
     needs: init
