@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "url": {
+        "protocol": "http:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.enrchoix.idf.ademe.fr",
+        "port": null,
+        "hostname": "www.enrchoix.idf.ademe.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "http://www.enrchoix.idf.ademe.fr/"
+      },
+      "link": "http://www.enrchoix.idf.ademe.fr/",
+      "line": "--2026-11-22 05:19:27--  http://www.enrchoix.idf.ademe.fr/",
+      "broken": false
+    }
+  ],
+  "broken": []
+}
